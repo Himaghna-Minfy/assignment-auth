@@ -1,4 +1,3 @@
-# assignment-auth
 
 # Secret Quote API
 
